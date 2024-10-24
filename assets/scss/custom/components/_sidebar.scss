@@ -1,0 +1,14 @@
+
+.navbar-toggler{
+    border-color: #dc3434 !important;
+}
+
+.navbar-toggler.hover{
+    background-color: #dc3434 !important;
+}
+
+@media only screen and (max-width: 576px) {
+    .sidebar {
+        max-width: 100% !important;
+    }
+}
